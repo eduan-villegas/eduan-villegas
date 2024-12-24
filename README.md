@@ -86,10 +86,11 @@
 <div>
   <p align="center">
 	<a href="https://github.com/eduan-villegas/getxerpa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduan-villegas&repo=getxerpa&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduan-villegas&repo=getxerpa&theme=tokyonight&cache_bust=1" alt="getxerpa" />
     	</a>
-	
-	  
+	<a href="https://github.com/eduan-villegas/saucedemo">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduan-villegas&repo=saucedemo&theme=tokyonight&cache_bust=1" alt="saucedemo" />
+    	</a>
   </p>
 </div>
 </details>
