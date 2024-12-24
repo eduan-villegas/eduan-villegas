@@ -91,9 +91,6 @@
 	<a href="https://github.com/eduan-villegas/saucedemo">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduan-villegas&repo=saucedemo&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-     	<a href="https://github.com/eduan-villegas/farmacia-odoo">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduan-villegas&repo=farmacia-odoo&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
 	  
   </p>
 </div>
