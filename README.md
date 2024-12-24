@@ -70,11 +70,6 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px> </picture> GitHub Stats
 
 <details>
-  <summary><h3> 🔥 Streak Stats</h3></summary>
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduan-villegas&theme=tokyonight_duo" alt="Eduan Villegas" /></p>
-</details>
-
-<details>
   <summary><h3>💻 GitHub Profile Stats</h3></summary>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -90,9 +85,16 @@
   <summary><h3> :open_file_folder: My Repositories </h3></summary>	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/eduan-villegas/getxerpa">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduan-villegas&repo=getxerpa&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/eduan-villegas/saucedemo">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduan-villegas&repo=saucedemo&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+     	<a href="https://github.com/eduan-villegas/farmacia-odoo">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduan-villegas&repo=farmacia-odoo&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  
   </p>
 </div>
 </details>
